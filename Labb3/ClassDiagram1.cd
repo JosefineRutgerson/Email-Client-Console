@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Labb3.BaseMessage">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAAAAIAAIAQA=</HashCode>
+      <FileName>BaseMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.Settings">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABACAAAABAAAAABAAQAAAAAAAAAAAAQAAAAoAAI=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.BaseMessageHandler">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAEAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BaseMessageHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.Meny">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Meny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.ConfigMessageList">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAIAAAAAAAAAACAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ConfigMessageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.Mail">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Mail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.BinarySerialization">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BinarySerialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.XmlSerialization">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>XmlSerialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.Messages">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAI=</HashCode>
+      <FileName>Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labb3.SynchronousSocketClient" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAA=</HashCode>
+      <FileName>SynchronousSocketClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
